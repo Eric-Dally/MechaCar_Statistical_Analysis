@@ -1,7 +1,12 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
+
+<img width="475" alt="Screen Shot 2021-08-06 at 2 12 37 PM" src="https://user-images.githubusercontent.com/82424250/128561005-6de2f9a9-b551-4846-b7db-8461b0e449fa.png">
+
+
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+* Vehicle wieght, spoiler angle, and AWD provide non-random variance because their p values are above the significance level of 0.05.
 
 
 Is the slope of the linear model considered to be zero? Why or why not? 
