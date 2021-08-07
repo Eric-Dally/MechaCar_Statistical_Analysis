@@ -22,5 +22,8 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 <img width="647" alt="Screen Shot 2021-08-06 at 7 31 15 PM" src="https://user-images.githubusercontent.com/82424250/128582138-e14d656a-c0b1-4127-b629-c915d6ceb8b9.png">
 
+<img width="569" alt="Screen Shot 2021-08-06 at 7 52 29 PM" src="https://user-images.githubusercontent.com/82424250/128582733-3a0c425a-91c6-4f07-8cee-24c65dccebd8.png">
+
+
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-* My answer: 
+* According to my PSI box plot, the presure levels do not vary by more than 100 PSI. In fact, the maximum variance is 62 PSI from the mean (1498.78 PSI). Therefore, the current manufacturing data meets the design specifications for all manufacturing lots in total and for each lot individually.
