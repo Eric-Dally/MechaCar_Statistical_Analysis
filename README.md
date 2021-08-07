@@ -20,3 +20,13 @@
 
 
 * According to my PSI box plot, the presure levels do not vary by more than 100 PSI. In fact, the maximum variance is 62 PSI from the mean (1498.78 PSI). Therefore, the current manufacturing data meets the design specifications for all manufacturing lots in total and for each lot individually.
+
+## T-Tests on Suspension Coils
+
+<img width="415" alt="Screen Shot 2021-08-06 at 8 22 40 PM" src="https://user-images.githubusercontent.com/82424250/128584281-1fa919de-9675-4518-83cf-ff845810494f.png">
+
+<img width="433" alt="Screen Shot 2021-08-06 at 8 25 33 PM" src="https://user-images.githubusercontent.com/82424250/128584291-61945206-fce2-450c-924c-ccf809297360.png">
+
+<img width="437" alt="Screen Shot 2021-08-06 at 8 26 43 PM" src="https://user-images.githubusercontent.com/82424250/128584292-bf480adb-59bc-4ab2-9998-1dcf691b963c.png">
+
+<img width="435" alt="Screen Shot 2021-08-06 at 8 51 43 PM" src="https://user-images.githubusercontent.com/82424250/128584294-fe023a52-0e20-4285-a174-9970f5451001.png">
