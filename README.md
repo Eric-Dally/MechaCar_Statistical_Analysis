@@ -6,11 +6,11 @@
 
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-* Vehicle wieght, spoiler angle, and AWD provide non-random variance because their p values are above the significance level of 0.05.
+* Vehicle weight, spoiler angle, and AWD provide non-random variance because their p values are above the significance level of 0.05.
 
 
 Is the slope of the linear model considered to be zero? Why or why not? 
-* the p value is 5.35x10^-11 and, therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
+* the p value is 5.35x10^-11 and, therefore, there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 * With an R-squared value = 0.6825, our data fits the linear regression by approximately 68%.
