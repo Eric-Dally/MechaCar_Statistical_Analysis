@@ -40,4 +40,4 @@ Below is the RScript for the Lot three t-test that compares the lots mean agains
 
 <img width="444" alt="Screen Shot 2021-08-06 at 9 17 46 PM" src="https://user-images.githubusercontent.com/82424250/128584851-546e3e56-660c-4150-9194-3fb4b6e926bd.png">
 
-
+* Side note: all test were measured to the mean of 1498. In addition, the data does not reflect a normal distribution so the results may not be very accurate. 
