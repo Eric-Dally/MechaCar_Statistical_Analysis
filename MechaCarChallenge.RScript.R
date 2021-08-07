@@ -1,4 +1,5 @@
 #Deliverable one:
+
 library(tidyverse)
 library(dplyr)
 
@@ -25,6 +26,7 @@ library("ggplot2")
 
 
 #Deliverable two:
+
 Suspension_data <- read.csv(file = 'Resources/Suspension_Coil.csv')
 
 ?data.frame()
