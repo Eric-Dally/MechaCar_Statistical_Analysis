@@ -48,6 +48,8 @@ Below is the RScript for the Lot three t-test that compares the lots mean agains
 
 ## Study Design: MechaCar vs Competition
 
+An alternative study on how the MechaCar could compare performance is by examining the relationship between newer vehicles and maintenance costs. By running a linear regression on the annual maintenance cost over the model year, consumers would better understand when it makes sense to be a new car and how MechaCars mainteneance costs compare to other businesses over time. In this scenario, the null hypothesis would claim that there is no correlation between annual maintenence costs and the year the model was made. On the other hand the alternative hypothesis would claim that there is a relationship between annual maintenence costs and the year the model was made. Then one could run a One-Sample T-test to compare Mechars maintence costs to their competitors. More specifically, one could see if there is a statistical difference between the average maintenance cost over a 10 year period. 
+
 
 
 
