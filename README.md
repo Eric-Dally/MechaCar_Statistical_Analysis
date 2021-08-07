@@ -23,4 +23,8 @@
 
 ## T-Tests on Suspension Coils
 
+Below is the RScript written for t-test that compares all manufacturing lots against mean PSI of the population.
 
+<img width="420" alt="Screen Shot 2021-08-06 at 8 54 53 PM" src="https://user-images.githubusercontent.com/82424250/128584360-2b6d2478-cdaf-437d-b98d-acb17ae9f0c4.png">
+
+Becuase the P-value is above o=the significance level of 0.05, the null hypotheses is accepted and I can accept the null hypothesis and, therefore, the two means are statistically different.
