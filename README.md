@@ -32,6 +32,12 @@ Below is the RScript for the Lot one t-test that compares the lots mean against 
 
 <img width="439" alt="Screen Shot 2021-08-06 at 8 59 08 PM" src="https://user-images.githubusercontent.com/82424250/128584735-f4fd35ad-54d7-4bd9-ab54-718387a44c80.png">
 
+Below is the RScript for the Lot two t-test that compares the lots mean against the PSI of the population. Because the p-value is below the signficance level of 0.05, the null hypothesis is rejected and, therefore, the two means are statistically similar.
 
+<img width="433" alt="Screen Shot 2021-08-06 at 9 16 42 PM" src="https://user-images.githubusercontent.com/82424250/128584819-94844d27-3fd0-4665-a1de-d827c3187cd5.png">
+
+Below is the RScript for the Lot three t-test that compares the lots mean against the PSI of the population. Because the p-value is above the significance level of 0.05, the null hypotheses is accepted and, therefore, the two means are statistically different.
+
+<img width="444" alt="Screen Shot 2021-08-06 at 9 17 46 PM" src="https://user-images.githubusercontent.com/82424250/128584851-546e3e56-660c-4150-9194-3fb4b6e926bd.png">
 
 
