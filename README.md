@@ -19,7 +19,9 @@
 <img width="569" alt="Screen Shot 2021-08-06 at 7 52 29 PM" src="https://user-images.githubusercontent.com/82424250/128582733-3a0c425a-91c6-4f07-8cee-24c65dccebd8.png">
 
 
-* According to my PSI box plot, the presure levels do not vary by more than 100 PSI. In fact, the maximum variance is 62 PSI from the mean (1498.78 PSI). Therefore, the current manufacturing data meets the design specifications for all manufacturing lots in total and for each lot individually.
+According to my PSI box plot, the presure levels do not vary by more than 100 PSI. In fact, the maximum variance is 62 PSI from the mean (1498.78 PSI). Therefore, the current manufacturing data meets the design specifications for all manufacturing lots in total and for each lot individually.
+
+
 
 ## T-Tests on Suspension Coils
 
@@ -43,4 +45,20 @@ Below is the RScript for the Lot three t-test that compares the lots mean agains
 * Side note: all test were measured to the mean of 1498. In addition, the data does not reflect a normal distribution so the results may not be very accurate. 
 
 
+
 ## Study Design: MechaCar vs Competition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
